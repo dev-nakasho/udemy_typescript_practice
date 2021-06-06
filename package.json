@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dev-nakasho/udemy_typescript_practice/issues"
   },
-  "homepage": "https://github.com/dev-nakasho/udemy_typescript_practice#readme"
+  "homepage": "https://github.com/dev-nakasho/udemy_typescript_practice#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
 }
